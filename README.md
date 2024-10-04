@@ -15,11 +15,11 @@
 <!-- Projects Section -->
 <h2>🔭 Projects I'm Working On</h2>
 <div>
-    <h3>💼 <a href="https://github.com/aqsaamjad-05/Portfolio">My Portfolio Website</a></h3>
+    <h3>💼 <a href="https://github.com/aqsaamjad-05/portfolio">My Portfolio Website</a></h3>
     <p>A dynamic showcase of my skills, projects, and accomplishments. It features my recent work, CV, and contact information for collaboration opportunities.</p>
 </div>
 <div>
-    <h3>📋 <a href="https://github.com/aqsaamjad-05/Task-Tracker">Task Tracker</a></h3>
+    <h3>📋 <a href="https://github.com/aqsaamjad-05/task-tracker-cli">Task Tracker CLI</a></h3>
     <p>A simple CLI project to track and manage tasks; track what you need to do, what you have done, and what you are currently working on.</p>
 </div>
 
