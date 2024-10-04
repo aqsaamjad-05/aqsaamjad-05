@@ -38,6 +38,6 @@
 
 <!-- Footer with cool quote -->
 <p align="center">
-    <i>"Start that project, because in today's world, every half-baked idea is just one step away from becoming your next viral LinkedIn post!" - Hugo Li <a href="github.com/unchihugo"> @unchihugo</a> </i><br>
+    <i>"Start that project, because in today's world, every half-baked idea is just one step away from becoming your next viral LinkedIn post!" - Hugo Li <a href="https://github.com/unchihugo"> @unchihugo</a> </i><br>
     <strong>Let's build something great together!</strong>
 </p> 
